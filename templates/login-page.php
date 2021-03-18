@@ -27,7 +27,7 @@
         
        
        <a id="p" href="admin-login.php" class='btn btn-danger'>Admin Panel</a>
-        <h1 class="h3 mb-3 font-weight-normal">Please sign in to knacky</h1>
+        <h1 class="h3 mb-3 font-weight-normal">Please sign in to divya</h1>
         <?php displayMessage(); ?>
 
         <label for="inputEmail" class="sr-only" >Email address</label>
